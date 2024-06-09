@@ -21,7 +21,7 @@ function AboutUs() {
           <img className="absolute left-0 lg:w-[800px]" src="/Gradient.png" alt="" />
 
           <img className="w-[600px] lg:w-[1000px]" src="/Group 35887.png" alt="" />
-          <div className="absolute flex flex-col justify-between h-[25rem] w-[30rem] lg:h-[35rem] lg:w-[40rem]">
+          <div className="absolute flex flex-col top-0 lg:top-[10rem] justify-between h-[25rem] w-[30rem] lg:h-[35rem] lg:w-[40rem]">
             <div className="flex justify-between">
             <img
                     className="border-4 border-black overflow-hidden rounded-full w-[100px] h-[100px] lg:w-[120px] lg:h-[120px] object-cover"

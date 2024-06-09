@@ -2,7 +2,7 @@ import React from "react";
 
 function Customizable() {
   return (
-    <div className=" relative mx-[2rem]  lg:flex items-center justify-center ">
+    <div className=" relative mx-[2rem] overflow-hidden  lg:flex items-center justify-center ">
       <img
         className="absolute -bottom-14 right-0 lg:right-[10rem] lg:w-[80px]"
         src="/BlackStar.png"

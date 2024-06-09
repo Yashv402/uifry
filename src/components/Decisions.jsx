@@ -4,7 +4,7 @@ function Decisions() {
   return (
     <div className="relative lg:flex overflow-hidden">
       <img
-        className="absolute sm:hidden left-10 top-10 w-[70px]"
+        className="absolute hidden lg:block left-10 top-10 w-[70px]"
         src="/BlackStar.png"
         alt=""
       />
@@ -71,12 +71,12 @@ function Decisions() {
           alt=""
         />
         <img
-          className="absolute top-20 right-10 lg:top-[10rem] lg:right-[3rem] lg:w-[830px]"
+          className="absolute top-28 right-0 lg:top-[10rem] lg:right-[3rem] lg:w-[830px]"
           src="/iPhone-13-Pro-Front (1).png"
           alt=""
         />
         <img
-          className="absolute top-10 lg:top-[5rem] lg:right-[23rem] lg:w-[700px]"
+          className="absolute top-10 right-[10rem] lg:top-[5rem] lg:right-[23rem] lg:w-[700px]"
           src="/iPhone-13-Pro-Front (2).png"
           alt=""
         />
