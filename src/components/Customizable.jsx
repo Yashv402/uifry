@@ -2,7 +2,7 @@ import React from "react";
 
 function Customizable() {
   return (
-    <div className=" relative mx-[2rem] overflow-hidden  lg:flex items-center justify-center ">
+    <div className=" relative lg:mx-[2rem] overflow-hidden  lg:flex items-center justify-center ">
       <img
         className="absolute -bottom-14 right-0 lg:right-[10rem] lg:w-[80px]"
         src="/BlackStar.png"
@@ -23,7 +23,7 @@ function Customizable() {
           alt=""
         />
         <img
-          className="absolute z-20 top-[13rem] lg:top-[25rem] left-[15rem] lg:left-[28rem] w-[240px] lg:w-[400px]"
+          className="absolute z-20 top-[10rem] lg:top-[25rem] left-[12rem] lg:left-[28rem] w-[230px] lg:w-[400px]"
           src="/Group (1).png"
           alt=""
         />
@@ -31,7 +31,7 @@ function Customizable() {
       </div>
 
       <div className=" lg:mr-[8rem]">
-        <div className="my-[3rem]">
+        <div className="mx-[3rem] lg:mx-0 my-[3rem]">
           <div className="flex items-center gap-2">
             <img className="w-[50px] lg:w-[80px]" src="/Group 35899 (1).png" alt="" />
             <div className="text-4xl lg:text-6xl font-bold font-custom1">Fully Customizable</div>

@@ -14,7 +14,7 @@ function GetStarted() {
 
           <img className="absolute top-[25rem] left-[5rem] lg:top-10 lg:right-[50rem] rotate-45" src="/WhiteStar.png" alt="" />
           <img className="absolute hidden lg:block bottom-20 left-[40rem]"  src="/WhiteStar.png" alt="" />
-          <img className="absolute rotate-180 bottom-10 lg:-bottom-10 -right-16 lg:-right-28 w-[400px]  lg:x-[700px]"  src="/Gradient.png" alt="" />
+          <img className="absolute rotate-180 bottom-8 lg:-bottom-10 -right-16 lg:-right-28 w-[300px]  lg:x-[700px]"  src="/Gradient.png" alt="" />
           <img className="absolute top-0 right-0 rotate-180"  src="/Group 35905.png" alt="" />
           <img className="absolute bottom-0" width={450}  src="/Group 35905.png" alt="" />
 
@@ -31,10 +31,10 @@ function GetStarted() {
             </div>
           </div>
           <div className="absolute bottom-0 right-0 flex items-end w-[45%]">
-            <img className="absolute bottom-16 lg:bottom-20 right-0 h-[350px] lg:h-[600px]" src="/3.png"  alt="" />
+            <img className="absolute bottom-14 lg:bottom-20 right-0 h-[250px] lg:h-[600px]" src="/3.png"  alt="" />
             <img className="absolute bottom-7 right-0 lg:h-[650px]" src="/2.png" alt="" />
             <img className="absolute bottom-10 lg:right-36 h-[300px] lg:h-[500px]" src="/Shadow.png" alt="" />
-            <img className="absolute bottom-6 right-40 lg:right-72 lg:h-[550px]" src="/1 (4).png" alt="" />
+            <img className="absolute bottom-6 right-32 lg:right-72 lg:h-[550px]" src="/1 (4).png" alt="" />
           </div>
         </div>
       </div>
