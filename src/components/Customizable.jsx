@@ -30,10 +30,10 @@ function Customizable() {
         <img className="w-[350rem]"src="/Group 35887.png" alt="" />
       </div>
 
-      <div className=" mr-[8rem]">
+      <div className=" lg:mr-[8rem]">
         <div className="my-[3rem]">
           <div className="flex items-center gap-2">
-            <img className="w0[50px] lg:w-[80px]" src="/Group 35899 (1).png" alt="" />
+            <img className="w-[50px] lg:w-[80px]" src="/Group 35899 (1).png" alt="" />
             <div className="text-4xl lg:text-6xl font-bold font-custom1">Fully Customizable</div>
           </div>
 

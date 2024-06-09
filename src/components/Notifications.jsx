@@ -2,10 +2,10 @@ import React from "react";
 
 function Notifications() {
   return (
-    <div className=" relative sm:mx-[3rem] mt-[10rem] my-[5rem] lg:flex items-center">
+    <div className=" relative mt-[10rem] my-[5rem] lg:flex items-center">
       <img className="absolute top-0 right-0 w-[70px]" src="/BlackStar.png" alt="" />
 
-      <div className="lg:w-[40%] lg:m-[8rem]">
+      <div className="m-[3rem] lg:w-[40%] lg:m-[8rem]">
         <p className="text-2xl lg:text-3xl text-[#ff5555] mb-2 font-custom2">ADVANTAGES</p>
         <h1 className="text-4xl lg:text-6xl font-bold font-custom1">Why Choose Uify?</h1>
 

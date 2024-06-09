@@ -66,17 +66,17 @@ function Decisions() {
           alt=""
         />
         <img
-          className="absolute right-0 top-36 lg:top-[15rem] lg::right-0 lg:w-[700px]"
+          className="absolute -right-10 top-36 lg:top-[15rem] lg::right-0 lg:w-[700px]"
           src="/iPhone-13-Pro-Front (2).png"
           alt=""
         />
         <img
-          className="absolute top-28 right-0 lg:top-[10rem] lg:right-[3rem] lg:w-[830px]"
+          className="absolute top-28 -right-10 lg:top-[10rem] lg:right-[3rem] lg:w-[830px]"
           src="/iPhone-13-Pro-Front (1).png"
           alt=""
         />
         <img
-          className="absolute top-10 right-[10rem] lg:top-[5rem] lg:right-[23rem] lg:w-[700px]"
+          className="absolute top-10 right-[8rem] lg:top-[5rem] lg:right-[23rem] lg:w-[700px]"
           src="/iPhone-13-Pro-Front (2).png"
           alt=""
         />

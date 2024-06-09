@@ -58,7 +58,7 @@ function AboutUs() {
           </div>
         </div>
 
-        <div className="flex flex-col gap-4 lg:w-[50%] mr-[8rem]">
+        <div className="flex flex-col gap-4 lg:w-[50%] lg:mr-[8rem]">
           <div className="text-4xl lg:text-6xl font-bold font-custom1">
             The Best Financial Accounting App Ever!
           </div>

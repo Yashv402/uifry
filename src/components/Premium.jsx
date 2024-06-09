@@ -17,7 +17,7 @@ function Premium() {
           alt=""
         />
         <img
-          className="absolute z-10 top-0 lg:top-[5rem] lg:top-[7rem] lg:w-[400px]"
+          className="absolute z-10 top-0 lg:top-[5rem] lg:w-[400px]"
           src="/iPhone-13-Pro-Front (4).png"
           alt=""
         />
