@@ -34,3 +34,21 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Libraries Used
+
+This project leverages the following libraries and tools:
+
+- **Next.js**: A React framework that enables several extra features, including server-side rendering and generating static websites.
+- **React**: A JavaScript library for building user interfaces.
+- **next/font**: Used for optimizing and loading the Inter font.
+- **ESLint**: A tool for identifying and reporting on patterns found in ECMAScript/JavaScript code.
+- **Prettier**: An opinionated code formatter.
+
+## Figma Design Inspiration
+
+The design inspiration for this project is based on the following Figma resources:
+
+- [Landing Page Design](https://www.figma.com/community/file/1145991068621514311)
+
+Feel free to check out these Figma files to get a better understanding of the design inspiration behind this project.
