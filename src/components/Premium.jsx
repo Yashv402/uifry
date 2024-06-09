@@ -25,10 +25,10 @@ function Premium() {
       </div>
 
       <div className="lg:w-[50%] lg:mr-[8rem] mx-[3rem]">
-        <p className=" text-2xl lg:text-3xl text-[#ff5555] mb-2">Features</p>
-        <h1 className="text-4xl lg:text-6xl font-bold">Unify Premium</h1>
+        <p className=" text-2xl lg:text-3xl text-[#ff5555] mb-2 font-custom3">Features</p>
+        <h1 className="text-4xl lg:text-6xl font-bold font-custom1">Unify Premium</h1>
 
-        <div className="my-[3rem]">
+        <div className="my-[3rem] font-custom3">
           <div className="flex items-center gap-2">
             <img width={30} height={30} src="/star-05.png" alt="" />
             <div className=" text-2xl lg:text-3xl ">Budgeting Intervals</div>
@@ -39,7 +39,7 @@ function Premium() {
           </div>
         </div>
 
-        <div className="my-[3rem]">
+        <div className="my-[3rem] font-custom3">
           <div className="flex items-center gap-2">
             <img width={30} height={30} src="/cube-02.png" alt="" />
             <div className="text-2xl lg:text-3xl ">Budgeting Intervals</div>
@@ -50,7 +50,7 @@ function Premium() {
           </div>
         </div>
 
-        <div className="my-[3rem]">
+        <div className="my-[3rem] font-custom3">
           <div className="flex items-center gap-2">
             <img width={30} height={30} src="/cube-04.png" alt="" />
             <div className="text-2xl lg:text-3xl ">Budgeting Intervals</div>

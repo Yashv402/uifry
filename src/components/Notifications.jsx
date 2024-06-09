@@ -6,10 +6,10 @@ function Notifications() {
       <img className="absolute top-0 right-0 w-[70px]" src="/BlackStar.png" alt="" />
 
       <div className="lg:w-[40%] lg:m-[8rem]">
-        <p className="text-2xl lg:text-3xl text-[#ff5555] mb-2">ADVANTAGES</p>
-        <h1 className="text-4xl lg:text-6xl font-bold">Why Choose Uify?</h1>
+        <p className="text-2xl lg:text-3xl text-[#ff5555] mb-2 font-custom2">ADVANTAGES</p>
+        <h1 className="text-4xl lg:text-6xl font-bold font-custom1">Why Choose Uify?</h1>
 
-        <div className="my-[3rem]">
+        <div className="my-[3rem] font-custom3">
           <div className="flex items-center gap-2">
             <img className="w-[40px] lg:w-[60px]" src="/Group 35899.png" alt="" />
             <div className="text-2xl lg:text-3xl ">Clever Notifications</div>

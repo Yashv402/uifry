@@ -1,3 +1,27 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'CDBold';
+    src: url('/fonts/ClashDisplay-Bold.otf') format('woff2');
+}
+
+@font-face {
+    font-family: 'CDLight';
+    src: url('/fonts/ClashDisplay-Light.otf') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CDMeduim';
+    src: url('/fonts/ClashDisplay-Medium.otf') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+body {
+    font-family: 'CDBold', sans-serif;
+}

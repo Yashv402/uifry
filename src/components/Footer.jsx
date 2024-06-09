@@ -2,7 +2,7 @@ import React from "react";
 
 function Footer() {
   return (
-    <div className="lg:mx-[15rem] mx-[3rem] lg:mb-[10rem] ">
+    <div className="lg:mx-[15rem] mx-[3rem] lg:mb-[10rem] font-custom2">
       <div className="flex justify-between mb-[3rem] flex-wrap gap-6">
 
         <div className="flex flex-col gap-5">
@@ -18,7 +18,7 @@ function Footer() {
         </div>
 
         <div className="flex flex-col gap-5">
-            <div className="text-4xl lg:text-5xl">Links</div>
+            <div className="text-4xl lg:text-5xl font-custom3">Links</div>
             <ul className="text-2xl lg:text-3xl  flex flex-col gap-5">
                 <li>Home</li>
                 <li>About Us</li>
@@ -28,7 +28,7 @@ function Footer() {
         </div>
 
         <div className="flex flex-col gap-5">
-            <div className="text-4xl lg:text-5xl">Legal</div>
+            <div className="text-4xl lg:text-5xl font-custom3">Legal</div>
             <ul className="text-2xl lg:text-3xl flex flex-col gap-5">
                 <li>Terms Of Use</li>
                 <li>Privacy Policy</li>
@@ -37,7 +37,7 @@ function Footer() {
         </div>
 
         <div className="flex flex-col gap-5">
-            <div className="text-4xl lg:text-5xl">Product</div>
+            <div className="text-4xl lg:text-5xl font-custom3">Product</div>
             <ul className="text-2xl lg:text-3xl flex flex-col gap-5">
                 <li>Take Tour</li>
                 <li>Live Chat</li>
@@ -46,7 +46,7 @@ function Footer() {
         </div>
 
         <div className="flex flex-col gap-5">
-            <div className="text-4xl lg:text-5xl">Newsletter</div>
+            <div className="text-4xl lg:text-5xl font-custom3">Newsletter</div>
             <div className="text-2xl lg:text-3xl ">Stay Up To Date</div>
             <div className="flex gap-5">
                 <input className="text-2xl border border-zinc-500 p-3 w-[15rem] rounded-xl" type="text" placeholder="stay up to date"  />

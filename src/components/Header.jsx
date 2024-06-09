@@ -2,12 +2,12 @@ import React from 'react'
 
 function Header() {
   return (
-    <div className=' mx-[3rem] lg:mx-[12rem] my-[1rem] lg:mt-[3rem] flex justify-between items-center h-auto'>
+    <div className=' mx-[3rem] lg:mx-[12rem] my-[1rem] lg:mt-[3rem] flex justify-between items-center h-auto font-custom3'>
         <div className='flex justify-center items-center'>
         <img src="/Group.png" width={170} alt="uifry" />
         </div>
         <ul className='gap-[2rem] text-3xl items-center lg:flex hidden'>
-            <li className='text-[#ff5555] font-bold'>Home</li>
+            <li className='text-[#ff5555] font-custom1'>Home</li>
             <li>About Us</li>
             <li>Pricing</li>
             <li>Features</li>

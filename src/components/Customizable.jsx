@@ -34,10 +34,10 @@ function Customizable() {
         <div className="my-[3rem]">
           <div className="flex items-center gap-2">
             <img className="w0[50px] lg:w-[80px]" src="/Group 35899 (1).png" alt="" />
-            <div className="text-4xl lg:text-6xl font-bold">Fully Customizable</div>
+            <div className="text-4xl lg:text-6xl font-bold font-custom1">Fully Customizable</div>
           </div>
 
-          <div className="text-2xl lg:text-3xl text-[#7f7f7f] mt-[3rem]">
+          <div className="text-2xl lg:text-3xl text-[#7f7f7f] mt-[3rem] font-custom3">
             Arcu at dictum sapien, mollis. Vulputate sit id accumsan, ultricies.
             In ultrices malesuada elit mauris etiam odio. Duis tristique lacus,
             et blandit viverra nisl velit. Sed mattis rhoncus, diam suspendisse

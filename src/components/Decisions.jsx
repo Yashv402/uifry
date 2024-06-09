@@ -30,15 +30,15 @@ function Decisions() {
       />
 
       <div className="mx-[2rem] lg:w-[55%] mt-[5rem] lg:ml-[12rem]">
-        <div className="text-5xl custom1 lg:text-[100px] font-bold">
+        <div className="text-5xl font-custom1 lg:text-[100px] font-bold">
           Make The Best Financial Decisions
         </div>
 
-        <p className="text-2xl lg:text-3xl my-[2rem]">
+        <p className="text-2xl lg:text-3xl font-custom3 text-zinc-500  my-[2rem]">
           Cum et convallis risus placerat aliquam, nunc. Scelerisque aliquet
           faucibus tincidunt eu adipiscing sociis arcu lorem porttitor.
         </p>
-        <div className="flex gap-7">
+        <div className="flex gap-7 font-custom3">
           <button className="text-2xl lg:text-3xl px-7 py-4 flex items-center bg-black text-white rounded-xl">
             Get Started <img src="/RightArrow.png" width={30} alt="" />
           </button>

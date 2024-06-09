@@ -2,10 +2,10 @@ import React from "react";
 
 function Faq() {
   return (
-    <div className=" relative mx-[3rem] my-[5rem] lg:mx-[12rem] ">
+    <div className=" font-custom3 relative mx-[3rem] my-[5rem] lg:mx-[12rem] ">
       <div>
         <div className="text-2xl lg:text-3xl mb-2 ">FAQ</div>
-        <div className="text-5xl lg:text-6xl lg:w-[30%] font-bold ">
+        <div className="text-5xl lg:text-6xl lg:w-[30%] font-bold font-custom1">
           Frequently Asked Questions
         </div>
       </div>

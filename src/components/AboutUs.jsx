@@ -8,8 +8,8 @@ function AboutUs() {
 
 
       <div className="flex flex-col items-center">
-        <div className="text-2xl lg:text-3xl mb-2 ">TESTIMONIAL</div>
-        <div className="text-5xl lg:text-7xl font-bold ">
+        <div className="text-2xl lg:text-3xl mb-2 font-custom3 ">TESTIMONIAL</div>
+        <div className="text-5xl lg:text-7xl font-bold font-custom1">
           What Our Users <br />
           Say About Us?
         </div>
@@ -59,10 +59,10 @@ function AboutUs() {
         </div>
 
         <div className="flex flex-col gap-4 lg:w-[50%] mr-[8rem]">
-          <div className="text-4xl lg:text-6xl font-bold ">
+          <div className="text-4xl lg:text-6xl font-bold font-custom1">
             The Best Financial Accounting App Ever!
           </div>
-          <div className="text-xl lg:text-3xl text-[#7f7f7f] mt-[1rem]">
+          <div className="text-xl lg:text-3xl text-[#7f7f7f] mt-[1rem] font-custom3">
             “Arcu at dictum sapien, mollis. Vulputate sit id accumsan,
             ultricies. In ultrices malesuada elit mauris etiam odio. Duis
             tristique lacus, et blandit viverra nisl velit. Sed mattis rhoncus,
@@ -70,7 +70,7 @@ function AboutUs() {
             neque lorem sapien, suspendisse aliquam.”
           </div>
           <img className="h-[50px] w-[250px] lg:h-[70px] lg:w-[350px]" src="/Group 35917.png" alt="" />
-          <div className="text-2xl lg:text-3xl font-bold">Nick Jonas</div>
+          <div className="text-2xl lg:text-3xl font-bold font-custom3">Nick Jonas</div>
         </div>
       </div>
     </div>

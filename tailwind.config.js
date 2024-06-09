@@ -7,7 +7,10 @@ module.exports = {
   ],
   theme: {
     extend: {
-      backgroundImage: {
+      fontFamily: {
+        custom1: ['CDBold', 'sans-serif'],
+        custom2: ['CDLight', 'sans-serif'],
+        custom3: ['CDMeduim', 'sans-serif'],
       },
     },
   },

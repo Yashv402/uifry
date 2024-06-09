@@ -21,12 +21,12 @@ function GetStarted() {
 
           <div className="w-[100%] lg:w-[50%] lg:ml-[5rem] m-[3rem] flex lg:items-center">
             <div>
-            <h1 className="text-5xl font-bold">Ready To Get Started?</h1>
-            <p className="text-2xl my-[1rem]">
+            <h1 className="text-5xl font-custom1">Ready To Get Started?</h1>
+            <p className="text-2xl my-[1rem] font-custom2">
               Risus habitant leo egestas mauris diam eget morbi tempus
               vulputate.
             </p>
-            <button className=" flex items-center gap-2 text-2xl lg:text-3xl text-black bg-white px-[2rem] py-[1rem] rounded-xl">Download App <img
+            <button className=" flex items-center gap-2 text-2xl lg:text-3xl text-black bg-white px-[2rem] py-[1rem] rounded-xl font-custom3">Download App <img
             className=" w-[30px] lg:w-[50px]" src="/Vector.png" alt="" /></button>
             </div>
           </div>
